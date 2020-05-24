@@ -130,6 +130,7 @@ Following devices are tested by the authors and contributors:
 | Samsung Galaxy S6 (SM-G920F) | Exynos 7420 | Exynos Modem 333 | `-t sec -m e333` | No/Yes | |
 | Samsung Galaxy S6 Edge+ (SM-G928F) | Exynos 7420 | Exynos Modem 333 | `-t sec -m e333` | No/Yes | |
 | Samsung Galaxy S8 (SM-G950F) | Exynos 8895 | Exynos Modem 355 | `-t sec -m e333` | No/Yes | |
+| OnePlus 3| Snapdragon 820 | X12 | `-t qc` | Yes | |
 
 Note that we did not listed every Qualcomm-based devices here.
 
